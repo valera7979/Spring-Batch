@@ -1,4 +1,4 @@
-package com.itnent.example.batch;
+package com.example.batch;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

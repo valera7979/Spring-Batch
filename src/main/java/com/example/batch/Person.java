@@ -1,4 +1,4 @@
-package com.itnent.example.batch;
+package com.example.batch;
 
 public class Person {
 	private String lastName;
