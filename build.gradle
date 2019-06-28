@@ -26,6 +26,9 @@ targetCompatibility = 1.8
 
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-batch")
+    compile("org.springframework.boot:spring-boot-starter-web")
     compile("org.hsqldb:hsqldb")
-    testCompile("junit:junit")
+
+    // https://mvnrepository.com/artifact/org.projectlombok/lombok
+    compile("org.projectlombok:lombok:1.16.20")
 }
